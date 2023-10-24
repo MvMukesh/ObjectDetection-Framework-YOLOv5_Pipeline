@@ -7,3 +7,6 @@ Robust Pipeline for any Object Detection task (using YOLO_v5 for demo)
 4. Doceker
 5. Github Action
 6. CI/CD Deployment
+
+## Work Flow
+1. Updated files named as `Constants`, `Entity`, `Components`, `Pipelines`, `app.py`  
